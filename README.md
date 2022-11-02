@@ -2,7 +2,6 @@
 
 **Ponhrith/Ponhrith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🚀 I'm currently a back-end developer intern at Soramitsu Khmer.
 - 🎓 Freshman at Royal University of Phnom Penh, Bachelor of IT Engineering & at E2stem education, Cambodia , Higher Diploma in Software Development.
