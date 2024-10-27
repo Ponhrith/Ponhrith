@@ -4,8 +4,8 @@
 
 
 - 🚀 Former back-end developer intern at [Soramitsu Khmer](https://www.facebook.com/profile.php?id=100057264676897).
-- 🎓 Junior student at [Royal University of Phnom Penh](http://www.fe.rupp.edu.kh/#/), Bachelor of IT Engineering.
-- 🎓 Final Year at [E2STEM](https://e2stem.org.kh/), Higher Diploma in Software Development.
+- 🎓 Senior student at [Royal University of Phnom Penh](http://www.fe.rupp.edu.kh/#/), Bachelor of IT Engineering.
+- 🎓 Graduated from [E2STEM](https://e2stem.org.kh/), Higher Diploma in Software Development.
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning API and Spring Boot.
 - 📫 How to reach me: ponhrith.nhep@gmail.com
